@@ -3,4 +3,5 @@ description: "Plots that compare population and GDP (PPP) in the harmonized IAM
   COMPACT data (D4.3) with SSP2"
 theme: jekyll-theme-cayman
 show_downloads: false
-github.is_project_page: false
+github:
+  is_project_page: false
