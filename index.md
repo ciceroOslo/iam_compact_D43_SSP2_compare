@@ -29,11 +29,11 @@ For GDP, the SSP2 data include numbers from two different models: one from the
 OECD (which is usually taken as the default SSP GDP data) and one from IIASA.
 The two differ markedly for several regions.
 
-* [Population](./ssp_pop_comparison.html): Population of each country
-* [GDP PPP (scaled)](./ssp_gdp_scaled_comparison.html): GDP at purchasing-power
+* **[Population](./ssp_pop_comparison.html):** Population of each country
+* **[GDP PPP (scaled)](./ssp_gdp_scaled_comparison.html):** GDP at purchasing-power
   parity for each country. Original (2013) SSP2 numbers have been scaled to account
   for different base years (see below).
-* [GDP PPP per capita](./ssp_gdp_per_capita_comparison.html): Equal to scaled
+* **[GDP PPP per capita](./ssp_gdp_per_capita_comparison.html):** Equal to scaled
   GDP PPP divided by population.
   
 
@@ -59,14 +59,16 @@ In addition to continents, EU27, EU28, OECD and non-OECD groupings, the charts
 include three IAM COMPACT-specific groupings that correspond to the different
 data sources and data mergings used in the harmonized data:
 
-* "EU27+Norway": Current EU countries plus Norway. These are grouped together
+* **"EU27+Norway":** Current EU countries plus Norway. These are grouped together
   because they are the ones for which the 2021 EU Ageing Report include
   projected GDP growth rates.
-* "OECD+ countries": OECD countries plus Argentina, Brazil, China, India,
+
+* **"OECD+ countries":** OECD countries plus Argentina, Brazil, China, India,
   Indonesia, Russia, Saudi Arabia and South Africa, excluding EU27+Norway. These
   are grouped together because they are included in the OECD Economic Outlook
   109 long-term baseline data, which are used for GDP projections through 2060
   for these countries.
-* "RoW excl. OECD+ and EU27+Norway": All other countries. These countries use
+
+* **"RoW excl. OECD+ and EU27+Norway":** All other countries. These countries use
   only UN data for population, and SSP2 for GDP growth rates after 2029, with no
   other specific projection sources.
