@@ -13,6 +13,12 @@ update of SSP2 published by IIASA in late July 2023 (review phase 1), and the
 Click the links below to access plots for each variable. On each plot, you can
 select the region to plot in the pull-down menu on the top left.
 
+Note that the 2024 release version is plotted on top of the 2023 review 1
+version when they are identical. So if the 2023 review version appears to be
+missing, it probably means that there was not change in the released 2024
+version. You can confirm this by clicking on the 2024 line in the legend to
+hide it.
+
 Countries are sorted in alphabetical order by 3-letter ISO code (*not* country
 name), while continents and other types of regions are listed at the bottom. See
 "Regions" below for explanations of IAM COMPACT-specific regions.
