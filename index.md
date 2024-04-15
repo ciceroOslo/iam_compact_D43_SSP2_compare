@@ -3,9 +3,9 @@ layout: default
 --- 
 
 The plots on this page compare population and GDP PPP data in the harmonized
-data from D4.3 in IAM COMPACT, to the original SSP2 (2013 version) and the
-[draft update](https://data.ece.iiasa.ac.at/ssp/) of SSP2 published by IIASA in
-late July 2023 (review phase 1).
+data from D4.3 in IAM COMPACT, to the original SSP2 (2013 version), the draft
+update of SSP2 published by IIASA in late July 2023 (review phase 1), and the
+[final release](https://data.ece.iiasa.ac.at/ssp/) published in March 2024.
 
 
 # Plots
